@@ -1,2 +1,2 @@
 # staticwebsite
-static website launching applications
+static website launching applications from jenkins
